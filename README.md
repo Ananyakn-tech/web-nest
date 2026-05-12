@@ -1,1 +1,1 @@
-*web practice*
+WEB
